@@ -1,4 +1,5 @@
 namespace Chess.Contracts
+
 {
     public interface IGameManager
     {

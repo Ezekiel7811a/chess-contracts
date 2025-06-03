@@ -17,7 +17,7 @@ This will pull all the necessary contracts, then if you want to use it in anothe
     <Compile Include="..\PathToRuntime\**\*.cs">
         <Link>
         ChessContracts\%(RecursiveDir)%(Filename)%(Extension)
-        <Link>
+        </Link>
     </Compile>
 </ItemGroup>
 ```
