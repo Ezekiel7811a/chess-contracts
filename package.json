@@ -1,0 +1,13 @@
+{
+    "name": "chess-contracts",
+    "version": "1.0.0",
+    "description": "All necessary contracts for the chess game.",
+    "displayName": "Chess Contracts",
+    "unity": "2021.3",
+    "dependencies": {},
+    "author": {
+        "name": "Vincent Philippe",
+        "email": "vincentcharles.philippe@gmail.com",
+        "url": "https://github.com/Ezekiel7811a/chess-contracts"
+    }
+}
